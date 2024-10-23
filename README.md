@@ -33,14 +33,13 @@ The **Rule Engine with AST** is a powerful and flexible system designed to evalu
       "name": "John"
   }
 ## Example Output
-
-Evaluation Result: true
+    ```json
+    Evaluation Result: true
 
 ## Installation Instructions
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your_username/rule-engine-ast.git
-
+  git clone https://github.com/abhijha910/rule-engine-ast.git
     
 2. **Navigate to the project directory**:
     ```bash
@@ -60,8 +59,8 @@ Evaluation Result: true
 ## Running the Rule Engine
 To start the evaluation engine, you can use the provided script. Here's an example command to evaluate a rule:
 
-    ```bash
-    python src/main.py
+      ```bash
+      python src/main.py
 
 ## Authors
 Abhyanand Jha - abhyanandlsc@gmail.com
