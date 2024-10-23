@@ -53,14 +53,14 @@ The **Rule Engine with AST** is a powerful and flexible system designed to evalu
 
 4. **Install the required dependencies**:
     
-    ```bash
-    pip install -r requirements.txt
+      ```bash
+      pip install -r requirements.txt
 
 ## Running the Rule Engine
-To start the evaluation engine, you can use the provided script. Here's an example command to evaluate a rule:
+To start the evaluation engine, you can use the provided script. Here's the command to evaluate a rule:
 
-      ```bash
-      python src/main.py
+```bash
+python src/main.py
 
 ## Authors
 Abhyanand Jha - abhyanandlsc@gmail.com
