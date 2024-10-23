@@ -39,7 +39,7 @@ The **Rule Engine with AST** is a powerful and flexible system designed to evalu
 ## Installation Instructions
 1. **Clone the repository**:
    ```bash
-  git clone https://github.com/abhijha910/rule-engine-ast.git
+   git clone https://github.com/abhijha910/rule-engine-ast.git
     
 2. **Navigate to the project directory**:
     ```bash
