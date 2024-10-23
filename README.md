@@ -58,7 +58,7 @@ The **Rule Engine with AST** is a powerful and flexible system designed to evalu
 
 ## Running the Rule Engine
 To start the evaluation engine, you can use the provided script. Here's the command to evaluate a rule:
-      ```bash
+                  ```bash
                   python src/main.py
 
 ### Authors
